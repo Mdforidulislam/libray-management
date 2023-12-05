@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "img": "https://demo.themewinter.com/wp/exhibz/wp-content/uploads/2018/12/speaker1.jpg",
+      "name": "John Doe",
+      "title": "CSE Student",
+      "logo": "https://example.com/company1-logo.png",
+      "description": "John Doe is the CEO of Company XYZ, a leading technology company specializing in innovative solutions for businesses. With over 20 years of experience in the industry, John has led Company XYZ to achieve remarkable growth and success. He is passionate about driving innovation and creating value for customers."
+    },
+    {
+      "id": 2,
+      "img": "https://demo.themewinter.com/wp/exhibz/wp-content/uploads/2018/12/speaker2.jpg",
+      "name": "Jane Smith",
+      "title": "Bussiness Student",
+      "logo": "https://example.com/company2-logo.png",
+      "description": "Jane Smith is the founder of Startup ABC, a startup accelerator that nurtures and supports emerging entrepreneurs. Her vision and dedication to fostering the next generation of innovators have made Startup ABC a hub for groundbreaking ideas and startups."
+    },
+    {
+      "id": 3,
+      "img": "https://demo.themewinter.com/wp/exhibz/wp-content/uploads/2018/12/speaker3.jpg",
+      "name": "Math Student",
+      "title": "Director of Marketing",
+      "logo": "https://example.com/company3-logo.png",
+      "description": "David Brown serves as the Director of Marketing at MarketingHub, a digital marketing agency known for its creative campaigns and data-driven strategies. With his expertise in digital marketing, David has played a pivotal role in elevating the online presence of clients and driving growth."
+    },
+    {
+      "id": 4,
+      "img": "https://demo.themewinter.com/wp/exhibz/wp-content/uploads/2018/12/speaker4.jpg",
+      "name": "Alice Johnson",
+      "title": "Since Student",
+      "logo": "https://example.com/company4-logo.png",
+      "description": "Alice Johnson is the Chief Technology Officer at Tech Innovators Inc. She leads the company's technology division and is responsible for driving product development and technological advancements. Alice's innovative mindset has positioned Tech Innovators Inc. as a leader in the tech industry."
+    },
+    {
+      "id": 5,
+      "img": "https://demo.themewinter.com/wp/exhibz/wp-content/uploads/2018/12/speaker5.jpg",
+      "name": "Emily Wilson",
+      "title": "CSE Student",
+      "logo": "https://example.com/company5-logo.png",
+      "description": "Emily Wilson is the Creative Director at Artistry Studios, a design and branding agency known for its captivating visual creations. Emily's artistic vision and leadership have led to the creation of unique and memorable brand identities for clients worldwide."
+    },
+    {
+      "id": 6,
+      "img": "https://demo.themewinter.com/wp/exhibz/wp-content/uploads/2018/12/speaker6.jpg",
+      "name": "Michael Turner",
+      "title": "Bussiness Student",
+      "logo": "https://example.com/company6-logo.png",
+      "description": "Michael Turner is the Lead Developer at CodeCrafters Ltd., a software development company renowned for its cutting-edge applications. Michael's technical expertise and dedication to quality coding have been instrumental in delivering successful software solutions."
+    },
+    {
+      "id": 7,
+      "img": "https://demo.themewinter.com/wp/exhibz/wp-content/uploads/2018/12/speaker7.jpg",
+      "name": "Sarah Clark",
+      "title": "CSE Student",
+      "logo": "https://example.com/company7-logo.png",
+      "description": "Sarah Clark is a Financial Analyst at FinancePros Inc., a financial consulting firm. With her keen analytical skills and financial expertise, Sarah provides valuable insights to clients, helping them make informed financial decisions."
+    },
+    {
+      "id": 8,
+      "img": "https://demo.themewinter.com/wp/exhibz/wp-content/uploads/2018/12/speaker8.jpg",
+      "name": "Henri Robert",
+      "title": "CSE Student",
+      "logo": "https://example.com/company7-logo.png",
+      "description": "Sarah Clark is a Financial Analyst at FinancePros Inc., a financial consulting firm. With her keen analytical skills and financial expertise, Sarah provides valuable insights to clients, helping them make informed financial decisions."
+    }
+]

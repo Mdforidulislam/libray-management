@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "bg_image": "https://www.indypl.org/uploads/blog/Special_Collections_640_x_340.jpg",
+    "title": "Library's Knowledge Journey",
+    "description": "Embark on a journey of knowledge through books and exploration. Join library enthusiasts shaping the world of reading.",
+    "btn_text1": "Get Library Book",
+    "btn_text2": "Learn More"
+  },
+  {
+    "id": 2,
+    "bg_image": "https://watermark.lovepik.com/photo/20211123/large/lovepik-the-internal-environment-of-the-library-picture_500771883.jpg",
+    "title": "Library Discovery",
+    "description": "Discover the secrets of the library world and its role in expanding knowledge. Join the library community's intellectual exploration.",
+    "btn_text1": "GGet Library Book",
+    "btn_text2": "Explore"
+  },
+  {
+    "id": 3,
+    "bg_image": "https://img.freepik.com/premium-photo/book-library-with-old-open-textbook-stack-piles-literature-text-archive-reading-desk_779468-5822.jpg",
+    "title": "LIBRARY KNOWLEDGE EXPO",
+    "description": "Participate in the Library Knowledge Expo and contribute to a harassment-free library experience. Everyone is welcome to explore the world of books and learning.",
+    "btn_text1": "Get Library Book",
+    "btn_text2": "Discover More"
+  }
+]

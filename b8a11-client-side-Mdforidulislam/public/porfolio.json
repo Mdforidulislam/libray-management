@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "text1": "43+",
+      "text2": "Active",
+      "text3": "Students",
+      "category": "Event Highlights",
+      "description": "Join us for an inspiring event featuring over 43 visionary speakers from various industries. These experts will share their insights and expertise, making this event an opportunity you don't want to miss."
+      
+    },
+    {
+      "id": 2,
+      "text1": "356+",
+      "text2": "Return",
+      "text3": "Book",
+      "category": "Workshops",
+      "description": "Explore the latest innovation trends in our series of workshops. Get hands-on experience and gain valuable knowledge from industry leaders."
+     
+    },
+    {
+      "id": 3,
+      "text1": "568+",
+      "text2": "Browing",
+      "text3": "Book",
+      "category": "Networking",
+      "description": "Connect with like-minded professionals and seize abundant networking opportunities. Build lasting relationships and expand your professional network."
+     
+    },
+    {
+      "id": 4,
+      "text1": "813+",
+      "text2": "Daily",
+      "text3": "Activities",
+      "category": "Event Highlights",
+      "description": "Don't miss our inspiring keynote speakers who will share their remarkable journeys and insights. Be prepared to be motivated and enlightened."
+    }
+  ]
+  

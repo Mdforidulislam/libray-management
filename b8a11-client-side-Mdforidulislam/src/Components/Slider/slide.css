@@ -1,0 +1,35 @@
+.titleAnimation{
+    padding: 10px;
+    background: linear-gradient(to right, hsl(0, 100%, 49%) 0, hsl(316, 86%, 46%) 10%, hsl(0, 100%, 100%) 20%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 3s infinite linear;
+}
+@keyframes shine {
+    0% {
+      background-position: 0;
+    }
+    60% {
+      background-position: 600px;
+    }
+    100% {
+      background-position: 650px;
+    }
+  }
+  
+ .titleAnimation  {
+    transition: 0.5s ease-out;
+  }
+ .titleAnimation:hover:nth-child(1) {
+    margin-right: 5px;
+  }
+ .titleAnimation:hover:nth-child(1):after {
+    content: "'";
+  }
+ .titleAnimation:hover:nth-child(2) {
+    margin-left: 30px;
+  }
+ .titleAnimation:hover {
+    color: #fff;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #fff;
+  }
