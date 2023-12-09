@@ -33,7 +33,7 @@
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=express,mongodb,figma,github" />
+    <img src="https://skillicons.dev/icons?i=express,mongodb,figma" />
   </a>
 </p>
 
