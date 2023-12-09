@@ -23,6 +23,22 @@
 
  and more features add here , you can explore the website more time you have to free time , 
 
+
+ ##Use Technology: 
+ 
+ <p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,firebase" />
+  </a>
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=express,mongodb,figma,github" />
+  </a>
+</p>
+
+
+
  Thanks fore reading all info 
 
 
